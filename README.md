@@ -1,5 +1,8 @@
 # [E-Shop](https://e-shop-sserkov.netlify.app) (React, Material UI, Commerce.js, Stripe, Netlify)
 
+![image](https://user-images.githubusercontent.com/68920116/114434626-e6eead00-9bcb-11eb-8267-0b42bb501439.png)
+
+
 ### For payment method you can use this data:
 
 Card number - 4242 4242 4242 4242
